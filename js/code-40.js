@@ -1,0 +1,1 @@
+document.querySelector(".user-40").textContent="紫綾";
