@@ -1,0 +1,12 @@
+#users>.user-4{
+	background-color: rgb(205, 188, 164);
+	color: rgb(8, 59, 8);
+	padding: 5px 8px 5px 8px;
+	font-weight: 500;
+	width: fit-content;
+}
+
+#users>.user-4:hover{
+	box-shadow: 0px 0px 2px grey;
+	cursor: pointer;
+}
