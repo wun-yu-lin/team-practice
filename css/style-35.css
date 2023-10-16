@@ -1,0 +1,9 @@
+#users>.user-35{
+    height: 15px;
+    width: 15px;
+	color: aqua;
+    background-color: black;
+}
+#users>.user-35:hover{
+	backdrop-filter: (80%)
+}
